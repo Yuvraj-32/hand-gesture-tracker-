@@ -1,0 +1,19 @@
+# MediaPipe Models
+*.task
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# OCR/NLP Cache
+.easyocr/
+.textblob/
+.transformers/
+*onnx*
+
+# OS
+.DS_Store
+Thumbs.db

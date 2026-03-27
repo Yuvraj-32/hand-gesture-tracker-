@@ -1,0 +1,10 @@
+opencv-python
+numpy
+mediapipe
+matplotlib
+easyocr
+pyspellchecker
+textblob
+transformers
+torch
+Pillow
